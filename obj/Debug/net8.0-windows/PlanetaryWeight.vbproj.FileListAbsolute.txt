@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\bin\Debug\net8.0-windows\PlanetaryWeight.exe
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\bin\Debug\net8.0-windows\PlanetaryWeight.deps.json
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\bin\Debug\net8.0-windows\PlanetaryWeight.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\bin\Debug\net8.0-windows\PlanetaryWeight.dll
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\bin\Debug\net8.0-windows\PlanetaryWeight.pdb
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.frmPlanets.resources
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.Resources.resources
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.dll
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\refint\PlanetaryWeight.dll
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.pdb
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\PlanetaryWeight.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\PlanetaryWeight\obj\Debug\net8.0-windows\ref\PlanetaryWeight.dll
